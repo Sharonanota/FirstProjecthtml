@@ -1,0 +1,42 @@
+*{
+    padding: 15px;
+    margin-right: 10px;
+    text-overflow: clip;
+ 
+}
+body{
+    text-align: left 100px;
+    font-size: larger;
+
+
+    
+    background-color: aquamarine;
+    background-image:url(gif.png);
+    background-clip: border-box;
+    padding: 5%;
+    margin-left: 75%;
+    width: 2%;
+    background-size: 1000px;
+    background-repeat: no-repeat;
+    
+}
+.nav{
+    padding: 2px;
+    width: 1px;
+    height: 1px;
+    margin-left: 20px;
+    
+}
+
+
+.email{
+    padding-top:-20px;
+    margin-right: 0px;
+    height: auto;
+
+}
+.Login{
+    padding-top: 0%;
+    max-width: 90%;
+    margin-left: 70px;
+}
